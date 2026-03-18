@@ -1,0 +1,30 @@
+id: ustawienia_nadzorcy
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "USTAWIENIA NADZORCY"
+  - ""
+  - "Wybierz opcję:"
+
+options:
+  - text: "> Prędkość Pisania: NORMALNIE"
+    action: typing_speed
+    
+  - text: "> Ustawienia Stylu Terminala"
+    next: ustawienia_nadzorcy/theme_settings
+    
+  - text: "> Blur Czcionki: 1"
+    action: "crt_blur"
+
+  - text: "> Krzywizna Ekranu: 0.035"
+    action: "crt_curvature"
+    
+  - text: "> Zabarwienie tła: 25"
+    action: crt_tint
+    
+  - text: "> Tryb ekranu: Pełny ekran"
+    action: display_mode
+
+  - text: "> Powrót"
+    next: menu_glowne

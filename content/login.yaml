@@ -1,0 +1,15 @@
+id: login
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "Witamy w systemie ROBCO Industries(TM) Termlink"
+  - "Wymagane hasło - Pozostałe próby: {attempts}"
+  - ""
+  - "Wprowadź hasło"
+
+input:
+  correct: "Password"
+  success: menu_glowne
+  attempts: 4
+  lock_scene: terminal_zablokowany

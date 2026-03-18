@@ -1,0 +1,23 @@
+id: sterowanie_zabezpieczeniami
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "STEROWANIE BEZPIECZEŃSTWEM"
+  - ""
+  - "Wybierz opcję:"
+
+options:
+  - text: "> Otwórz wszystkie drzwi"
+    next: sterowanie_zabezpieczeniami/otworz_wszystkie_drzwi
+  - text: "> Zamknij wszystkie drzwi"
+    next: sterowanie_zabezpieczeniami/zamknij_wszystkie_drzwi
+  - text: "> Wyłącz zasilanie"
+    next: sterowanie_zabezpieczeniami/wylacz_zasilanie
+  - text: "> Włącz zasilanie"
+    next: sterowanie_zabezpieczeniami/wlacz_zasilanie
+  - text: "> Uruchom procedurę blokady"
+    next: sterowanie_zabezpieczeniami/procedura_zamkniecia
+
+  - text: "> Powrót"
+    next: menu_glowne

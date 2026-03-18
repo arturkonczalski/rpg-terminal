@@ -1,0 +1,17 @@
+id: raporty_zdarzen
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > RAPORTY ZDARZEŃ"
+  - "-----------------"
+  
+options:
+  - text: "> Raport 1 - Bójka na stołówce"
+    next: dziennik_danych/terminal_bezpieczenstwa/raporty_zdarzen/raport_1
+  - text: "> Raport 2 - Wandalizm w Sektorze Mieszkalnym"
+    next: dziennik_danych/terminal_bezpieczenstwa/raporty_zdarzen/raport_2
+  - text: "> Raport 3 - Nieautoryzowany dostęp do Strefy Ograniczonej"
+    next: dziennik_danych/terminal_bezpieczenstwa/raporty_zdarzen/raport_3
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa

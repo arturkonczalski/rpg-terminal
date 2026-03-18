@@ -1,0 +1,17 @@
+id: dzienniki_nadzorcy_login
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL NADZORCY > DZIENNIKI NADZORCY"
+  - "-----------------"
+  - "Wymagane hasło Nadzorcy - Pozostałe próby: {attempts}"
+  - ""
+  - "Wprowadź hasło"
+  
+input:
+  correct: "Nadzorca"
+  success: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy_odblokowany
+  attempts: 3
+  lock_scene: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy_zablokowany    
+

@@ -1,0 +1,14 @@
+id: raport_2
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > RAPORTY ZDARZEŃ"
+  - "RAPORT 2: WANDALIZM W SEKTORZE MIESZKALNYM"
+  - "-----------------"
+  - "Lokalizacja: Sektor mieszkalny"
+  - "Szczegóły: Na ścianach pojawiły się niezatwierdzone oznaczenia i symbole. Nie ustalono jeszcze, kto za nie odpowiada. Ochrona przegląda zapisy z kamer, aby wytypować winnych, a ekipa techniczna otrzymała polecenie przywrócenia stanu pierwotnego."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/raporty_zdarzen

@@ -1,0 +1,17 @@
+id: personel_medyczny
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU > PERSONEL MEDYCZNY"
+  - "-----------------"
+  - "Wybierz opcję:"
+  - "Test 'z' apostrofami"
+
+options:
+  - text: "> Akta 1 - Avinash Baldr"
+    next: akta_personelu/personel_medyczny/Avinash_Baldr
+  - text: "> Akta 2 - Jehanne Muhamad"
+    next: akta_personelu/personel_medyczny/Jehanne_Muhamad
+  - text: "> Powrót"
+    next: akta_personelu

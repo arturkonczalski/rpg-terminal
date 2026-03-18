@@ -1,0 +1,10 @@
+id: terminal_zablokowany
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "TERMINAL ZABLOKOWANY"
+  - ""
+  - "Zbyt wiele nieudanych prób."
+  - ""
+  - "Skontaktuj się z Nadzorcą."

@@ -1,0 +1,14 @@
+id: Xanthippe_Pavle
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU > POZOSTAŁY PERSONEL"
+  - "-----------------"
+  - "Xanthippe Pavle"
+  - "Data urodzenia: 10.15.2037"
+  - "Opis EnPeCepa."
+  
+options:
+  - text: "> Powrót do Akt Pozostałego Personelu"
+    next: akta_personelu/pozostaly_personel

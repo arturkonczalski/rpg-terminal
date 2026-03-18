@@ -1,0 +1,14 @@
+id: wpis_2
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > DZIENNIKI OCHRONY"
+  - "WPIS 2"
+  - "-----------------"
+  - "Data wpisu: 17.10.2027"
+  - "Odebrano raport o niepokojących zdarzeniach w Sektorze 4. Zachowanie mieszkańców odbiega od normy i wskazuje na możliwy wpływ niezidentyfikowanego czynnika. Obszar objęto ścisłą izolacją, a personel działa według procedur awaryjnych. Dalsze kroki zostaną podjęte po otrzymaniu wytycznych od Nadzorcy."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/dzienniki_ochrony

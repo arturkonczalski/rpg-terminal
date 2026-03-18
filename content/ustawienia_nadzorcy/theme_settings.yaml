@@ -1,0 +1,27 @@
+id: style_settings
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "WYBIERZ STYL TERMINALA"
+  - ""
+
+options:
+  - text: "> Fallout Green"
+    action: theme
+    value: fallout
+
+  - text: "> Bursztynowy"
+    action: theme
+    value: amber
+
+  - text: "> Lodowy błękit"
+    action: theme
+    value: ice
+
+  - text: "> Retro"
+    action: theme
+    value: retro
+
+  - text: "> Powrót"
+    next: ustawienia_nadzorcy

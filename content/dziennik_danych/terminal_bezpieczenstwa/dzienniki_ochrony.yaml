@@ -1,0 +1,17 @@
+id: dzienniki_ochrony
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > DZIENNIKI OCHRONY"
+  - "-----------------"
+  
+options:
+  - text: "> Wpis 1 - 15.10.2027"
+    next: dziennik_danych/terminal_bezpieczenstwa/dzienniki_ochrony/wpis_1
+  - text: "> Wpis 2 - 02.11.2027"
+    next: dziennik_danych/terminal_bezpieczenstwa/dzienniki_ochrony/wpis_2
+  - text: "> Wpis 3 - 23.11.2027"
+    next: dziennik_danych/terminal_bezpieczenstwa/dzienniki_ochrony/wpis_3
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa

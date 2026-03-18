@@ -1,0 +1,17 @@
+id: personel_ochrony
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU > PERSONEL OCHRONY"
+  - "-----------------"
+  - "Wybierz opcję:"
+  - ""
+
+options:
+  - text: "> Akta 1 - Medraut Honoka"
+    next: akta_personelu/personel_ochrony/Medraut_Honoka
+  - text: "> Akta 2 - Erika Dagda"
+    next: akta_personelu/personel_ochrony/Erika_Dagda
+  - text: "> Powrót"
+    next: akta_personelu

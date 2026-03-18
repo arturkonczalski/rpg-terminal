@@ -1,0 +1,15 @@
+id: terminal_nadzorcy
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL NADZORCY"
+  - "-----------------"
+  
+options:
+  - text: "> Dzienniki Nadzorcy"
+    next: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy_login
+  - text: "> Status Systemów Schronu"
+    next: dziennik_danych/terminal_nadzorcy/status_systemow_schronu
+  - text: "> Powrót"
+    next: dziennik_danych

@@ -1,0 +1,14 @@
+id: raport_1
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > RAPORTY ZDARZEŃ"
+  - "RAPORT 1: BÓJKA W STOŁÓWCE"
+  - "-----------------"
+  - "Lokalizacja: Stołówka"
+  - "Zgłoszenie: W stołówce racji odkryto nieprawidłowości w dystrybucji zapasów. Część mieszkańców twierdzi, że przydziały są zaniżane, co wywołało napięcia i wzrost nieufności wobec personelu. Przeprowadzono kontrolę stanów magazynowych, a dostęp do żywności został tymczasowo ograniczony do czasu zakończenia audytu. Sprawa została przekazana do wewnętrznego dochodzenia."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/raporty_zdarzen

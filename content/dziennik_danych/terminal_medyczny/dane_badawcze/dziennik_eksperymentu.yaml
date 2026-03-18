@@ -1,0 +1,18 @@
+id: dziennik_eksperymentu
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > DANE BADAWCZE > DZIENNIK EKSPERYMENTU"
+  - "-----------------"
+  - "Wybierz wpis:"
+  
+options:
+  - text: "> Wpis 1 - Wstępne Obserwacje"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/dziennik_eksperymentu/wpis_1
+  - text: "> Wpis 2 - Wyniki Pośrednie"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/dziennik_eksperymentu/wpis_2
+  - text: "> Wpis 3 - Krytyczne Ustalenia"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/dziennik_eksperymentu/wpis_3
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze

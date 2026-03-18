@@ -1,0 +1,14 @@
+id: Viktor_Nogah
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > DANE BADAWCZE > LISTA OBIEKTÓW BADAWCZYCH"
+  - "-----------------"
+  - "OBIEKT 1: Viktor Nogah"
+  - "Status: Zmarły"
+  - "Uwagi: Obiekt przejawiał wysoki poziom agresji oraz silną paranoję. Mutacje fizyczne obejmowały nienaturalne narośla oraz przerost mięśni. Zlikwidowany ze względów bezpieczeństwa."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/lista_obiektow_badawczych

@@ -1,0 +1,17 @@
+id: srodki_kwarantanny
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > PROCEDURY AWARYJNE"
+  - "ŚRODKI KWARANTANNY"
+  - "-----------------"
+  - "1. Odizolować osoby dotknięte problemem w wyznaczonych strefach kwarantanny."
+  - "2. Przeprowadzić badania medyczne wszystkich mieszkańców."
+  - "3. Ograniczyć przemieszczanie się w obrębie Krypty, aby zapobiec skażeniu krzyżowemu."
+  - "4. Zapewnić dotkniętym obszarom niezbędne zapasy medyczne i personel."
+  - "5. Regularnie monitorować sytuację i raportować do Nadzorcy."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/procedury_awaryjne

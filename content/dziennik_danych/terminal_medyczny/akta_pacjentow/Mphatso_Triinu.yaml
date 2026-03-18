@@ -1,0 +1,16 @@
+id: Mphatso_Triinu
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > AKTA PACJENTÓW"
+  - "-----------------"
+  - "KARTA PACJENTA - Mphatso Triinu"
+  - "Data przyjęcia: 23.11.2077"
+  - "Objawy: Frustracja twórcza, natłok pomysłów bez czasu na ich zapisanie, poczucie presji przed sesją, odkładanie notatek „na później”, zmęczenie po pracy utrudniające kreatywność."
+  - "Leczenie: Wyznaczenie stałego, krótkiego bloku czasu (np. 20–30 minut dziennie), uproszczenie przygotowań (szkic zamiast pełnego opisu), korzystanie z gotowych tabel i generatorów, delegowanie części światotworzenia graczom."
+  - "Status: Chroniczny niedoczas mistrza gry / Stabilny, wymaga organizacyjnej interwencji."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/akta_pacjentow

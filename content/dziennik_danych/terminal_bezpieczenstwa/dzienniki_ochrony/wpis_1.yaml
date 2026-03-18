@@ -1,0 +1,14 @@
+id: wpis_1
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > DZIENNIKI OCHRONY"
+  - "WPIS 1"
+  - "-----------------"
+  - "Data wpisu: 15.10.2027"
+  - "Schron pozostaje zamknięty i zabezpieczony. Obecność mieszkańców została potwierdzona, nie wykryto zagrożeń pochodzących z zewnątrz. Wdrożono regularne obchody, a dostęp do uzbrojenia ograniczono zgodnie z procedurami. Z polecenia Nadzorcy obowiązuje wzmożony nadzór oraz natychmiastowe raportowanie wszelkich niepokojących zdarzeń."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/dzienniki_ochrony

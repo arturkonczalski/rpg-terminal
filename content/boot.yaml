@@ -1,0 +1,7 @@
+id: boot
+
+text:
+  - "Uruchamianie Terminala..."
+
+next: login
+delay: 2

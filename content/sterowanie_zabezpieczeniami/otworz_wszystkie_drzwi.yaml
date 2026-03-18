@@ -1,0 +1,28 @@
+id: otworz_wszystkie_drzwi
+
+sequence:
+  - text:
+      - "{server_basic_data}"
+      - ""
+      - "Rozpoczynanie procedury otwierania wszystkich drzwi..."
+    delay: 1
+
+  - text:
+      - "3..."
+    delay: 1
+
+  - text:
+      - "2..."
+    delay: 1
+
+  - text:
+      - "1..."
+    delay: 1
+
+  - text:
+      - "Procedura otwierania zakończona. Naciśnij dowolny przycisk."
+      - ""
+
+options:
+  - text: "> Powrót"
+    next: sterowanie_zabezpieczeniami

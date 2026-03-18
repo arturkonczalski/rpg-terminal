@@ -1,0 +1,17 @@
+id: personel_techniczny
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU > PERSONEL TECHNICZNY"
+  - "-----------------"
+  - "Wybierz opcję:"
+  - ""
+
+options:
+  - text: "> Akta 1 - Seiko Saveli"
+    next: akta_personelu/personel_techniczny/Seiko_Saveli
+  - text: "> Akta 2 - Rukmini Ploutarchos"
+    next: akta_personelu/personel_techniczny/Rukmini_Ploutarchos
+  - text: "> Powrót"
+    next: akta_personelu

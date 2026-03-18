@@ -1,0 +1,17 @@
+id: terminal_bezpieczenstwa
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA"
+  - "-----------------"
+  
+options:
+  - text: "> Uzyskaj dostęp do dzienników ochrony"
+    next: dziennik_danych/terminal_bezpieczenstwa/dzienniki_ochrony
+  - text: "> Wyświetl raporty zdarzeń"
+    next: dziennik_danych/terminal_bezpieczenstwa/raporty_zdarzen
+  - text: "> Procedury Awaryjne"
+    next: dziennik_danych/terminal_bezpieczenstwa/procedury_awaryjne
+  - text: "> Powrót"
+    next: dziennik_danych

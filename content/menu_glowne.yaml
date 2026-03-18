@@ -1,0 +1,24 @@
+id: menu_glowne
+
+text:
+  - "{server_basic_data}"
+  - ""
+
+options:
+  - text: "> Dziennik Danych"
+    next: dziennik_danych
+
+  - text: "> Akta Personelu"
+    next: akta_personelu
+
+  - text: "> Sterowanie Zabezpieczeniami"
+    next: sterowanie_zabezpieczeniami
+    
+  - text: "> Ustawienia Nadzorcy"
+    next: ustawienia_nadzorcy_login
+    
+  - text: "> Centrum Wsparcia"
+    action: support_center
+
+  - text: "> Wyjście"
+    action: exit

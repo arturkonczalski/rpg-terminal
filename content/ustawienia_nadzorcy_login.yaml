@@ -1,0 +1,17 @@
+id: ustawienia_nadzorcy_login
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC USTAWIENIA NADZORCY"
+  - "-----------------"
+  - "Wymagane hasło Nadzorcy - Pozostałe próby: {attempts}"
+  - ""
+  - "Wprowadź hasło"
+  
+input:
+  correct: "Ustawienia"
+  success: ustawienia_nadzorcy
+  attempts: 3
+  lock_scene: ustawienia_nadzorcy_zablokowany
+

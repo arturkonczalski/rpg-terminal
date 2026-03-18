@@ -1,0 +1,13 @@
+id: wpis_3
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL NADZORCY > DZIENNIKI NADZORCY"
+  - "WPIS 3"
+  - "-----------------"
+  - "Dopuściłem się poważnego błędu. Eksperyment wymknął się spod kontroli i posunął się zbyt daleko. Mieszkańcy nie są już jedynie chorzy, zachodzi w nich coś więcej, przeobrażają się w coś obcego. Odizolowałem Sektor 4, lecz obawiam się, że to mogło nie wystarczyć. Boże, miej nas w swojej opiece."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy_odblokowany

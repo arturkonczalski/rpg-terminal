@@ -1,0 +1,19 @@
+id: dziennik_danych
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH"
+  - "-----------------"
+  - "Wybierz opcję:"
+  - ""
+
+options:
+  - text: "> Wyświetl Terminal Medyczny"
+    next: dziennik_danych/terminal_medyczny
+  - text: "> Wyświetl Terminal Bezpieczeństwa"
+    next: dziennik_danych/terminal_bezpieczenstwa
+  - text: "> Wyświetl Terminal Nadzorcy"
+    next: dziennik_danych/terminal_nadzorcy
+  - text: "> Powrót"
+    next: menu_glowne

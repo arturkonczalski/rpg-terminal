@@ -1,0 +1,14 @@
+id: Medraut_Honoka
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU > PERSONEL OCHRONY"
+  - "-----------------"
+  - "Medraut Honoka"
+  - "Data urodzenia: 10.15.2037"
+  - "Opis EnPeCepa."
+  
+options:
+  - text: "> Powrót do Akt Personelu Ochrony"
+    next: akta_personelu/personel_ochrony

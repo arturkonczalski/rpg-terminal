@@ -1,0 +1,16 @@
+id: Kornelia_Martina
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > AKTA PACJENTÓW"
+  - "-----------------"
+  - "KARTA PACJENTA - Kornelia Martina"
+  - "Data przyjęcia: 02.11.2077"
+  - "Objawy: Napięcie psychiczne, przewracanie oczami, wewnętrzne westchnienia, spadek koncentracji przy „żartach”, narastająca irytacja, myśli typu „znowu to samo”."
+  - "Leczenie: Ograniczenie ekspozycji na suchary, asertywna komunikacja, przerwy regeneracyjne, słuchawki z redukcją hałasu, poczucie humoru stosowane defensywnie."
+  - "Status: Przeciążenie humorem / Stan stabilny, zagrożenie eskalacją przy kolejnym dowcipie."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/akta_pacjentow

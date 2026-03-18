@@ -1,0 +1,13 @@
+id: wpis_1
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL NADZORCY > DZIENNIKI NADZORCY"
+  - "WPIS 1"
+  - "-----------------"
+  - "Schron 149 rozpoczął działalność - projekt został uruchomiony. Mam pewne zastrzeżenia natury moralnej wobec tego, co robimy, jednak polecenia są jasne. Wykonam swoje zadanie. W imię większego dobra."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy_odblokowany

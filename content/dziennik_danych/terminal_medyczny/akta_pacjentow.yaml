@@ -1,0 +1,17 @@
+id: akta_pacjentow
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > AKTA PACJENTÓW"
+  - "-----------------"
+  
+options:
+  - text: "> Wpis 1: Francisco Willis - Przyjęty 15.10.2027"
+    next: dziennik_danych/terminal_medyczny/akta_pacjentow/Francisco_Willis
+  - text: "> Wpis 2: Kornelia Martina - Przyjęta 02.11.2027"
+    next: dziennik_danych/terminal_medyczny/akta_pacjentow/Kornelia_Martina
+  - text: "> Wpis 3: Mphatso Triinu - Przyjęty 23.11.2027"
+    next: dziennik_danych/terminal_medyczny/akta_pacjentow/Mphatso_Triinu
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny

@@ -1,0 +1,18 @@
+id: lista_obiektow_badawczych
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > DANE BADAWCZE > LISTA OBIEKTÓW BADAWCZYCH"
+  - "-----------------"
+  - "Wybierz wpis:"
+  
+options:
+  - text: "> Obiekt 1 - Viktor Nogah"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/lista_obiektow_badawczych/Viktor_Nogah
+  - text: "> Obiekt 2 - Saraid Gwilym"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/lista_obiektow_badawczych/Saraid_Gwilym
+  - text: "> Obiekt 3 - Regina Femie"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/lista_obiektow_badawczych/Regina_Femie
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze

@@ -1,0 +1,13 @@
+id: wpis_2
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > DANE BADAWCZE > DZIENNIK EKSPERYMENTU"
+  - "-----------------"
+  - "WPIS 2 - WYNIKI POŚREDNIE"
+  - "Stan zdrowia obiektów badawczych ulega pogorszeniu. Odnotowano wzrost agresji i paranoi. Halucynacje stają się powszechne. Zespół medyczny bada potencjalne przyczyny. Projekt Archon może wymagać ponownej oceny."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/dziennik_eksperymentu

@@ -1,0 +1,21 @@
+id: personel_records_all
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU"
+  - "-----------------"
+  - "Wybierz opcję:"
+  - ""
+
+options:
+  - text: "> Wyświetl Personel Techiczny"
+    next: akta_personelu/personel_techniczny
+  - text: "> Wyświetl Personel Medyczny"
+    next: akta_personelu/personel_medyczny
+  - text: "> Wyświetl Personel Ochrony"
+    next: akta_personelu/personel_ochrony
+  - text: "> Wyświetl Pozostały Personel"
+    next: akta_personelu/pozostaly_personel
+  - text: "> Powrót"
+    next: menu_glowne

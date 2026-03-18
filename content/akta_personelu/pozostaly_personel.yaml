@@ -1,0 +1,17 @@
+id: pozostaly_personel
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU > POZOSTAŁY PERSONEL"
+  - "-----------------"
+  - "Wybierz opcję:"
+  - ""
+
+options:
+  - text: "> Akta 1 - Abhishek Sherisse"
+    next: akta_personelu/pozostaly_personel/Abhishek_Sherisse
+  - text: "> Akta 2 - Xanthippe Pavle"
+    next: akta_personelu/pozostaly_personel/Xanthippe_Pavle
+  - text: "> Powrót"
+    next: akta_personelu

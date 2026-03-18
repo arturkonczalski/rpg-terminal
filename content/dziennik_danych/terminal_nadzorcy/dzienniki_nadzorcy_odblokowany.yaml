@@ -1,0 +1,20 @@
+id: dzienniki_nadzorcy_odblokowany
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL NADZORCY > DZIENNIKI NADZORCY > AUTORYZOWANO"
+  - "-----------------"
+  - "Wybierz wpis:"
+  
+options:
+  - text: "> Wpis 1"
+    next: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy/wpis_1
+  - text: "> Wpis 2"
+    next: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy/wpis_2
+  - text: "> Wpis 3"
+    next: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy/wpis_3
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_nadzorcy
+    
+

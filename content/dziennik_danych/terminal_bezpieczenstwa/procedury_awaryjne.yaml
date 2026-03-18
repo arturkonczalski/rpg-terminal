@@ -1,0 +1,17 @@
+id: procedury_awaryjne
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > PROCEDURY AWARYJNE"
+  - "-----------------"
+  
+options:
+  - text: "> Procedury Blokady"
+    next: dziennik_danych/terminal_bezpieczenstwa/procedury_awaryjne/procedury_blokady
+  - text: "> Środki Kwarantanny"
+    next: dziennik_danych/terminal_bezpieczenstwa/procedury_awaryjne/srodki_kwarantanny
+  - text: "> Plan Ewakuacji"
+    next: dziennik_danych/terminal_bezpieczenstwa/procedury_awaryjne/plan_ewakuacji
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa

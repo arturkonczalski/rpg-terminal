@@ -1,0 +1,17 @@
+id: procedury_blokady
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > PROCEDURY AWARYJNE"
+  - "PROCEDURY BLOKADY"
+  - "-----------------"
+  - "1. Zabezpieczyć wszystkie punkty wejścia i wyjścia."
+  - "2. Uruchomić procedurę blokady z głównego terminala."
+  - "3. Powiadomić wszystkich mieszkańców o stanie blokady przez system PA."
+  - "4. Zwiększyć liczbę patroli w obszarach wysokiego ryzyka."
+  - "5. Oczekiwać na dalsze instrukcje od Nadzorcy."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/procedury_awaryjne

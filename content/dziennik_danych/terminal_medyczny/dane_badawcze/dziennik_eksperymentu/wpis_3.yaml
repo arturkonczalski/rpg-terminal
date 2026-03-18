@@ -1,0 +1,13 @@
+id: wpis_3
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > DANE BADAWCZE > DZIENNIK EKSPERYMENTU"
+  - "-----------------"
+  - "WPIS 3 - KRYTYCZNE USTALENIA"
+  - "Katastrofalne niepowodzenie. U obiektów badawczych zachodzą nieprzewidywalne mutacje. Zaobserwowano degenerację fizyczną i psychiczną. Zalecane natychmiastowe zakończenie Projektu Archon. Wszystkie dane objąć klauzulą tajności."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/dziennik_eksperymentu

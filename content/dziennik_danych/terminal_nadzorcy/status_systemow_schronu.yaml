@@ -1,0 +1,26 @@
+id: status_systemow_schronu
+
+sequence:
+  - text:
+      - "{server_basic_data}"
+      - ""
+      - "VAULT-TEC DZIENNIK DANYCH > TERMINAL NADZORCY"
+      - "STATUS SYSTEMÓW SCHRONU"
+      - "-----------------"
+    delay: 2
+
+  - text:
+      - "Statusu Reaktora: Nominalny"
+    delay: 2
+
+  - text:
+      - "Stan systemów wentylacyjnych: Prawidłowy"
+    delay: 2
+
+  - text:
+      - "Zakończono sprawdzanie. Naciśnij dowolny przycisk."
+      - ""
+
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_nadzorcy

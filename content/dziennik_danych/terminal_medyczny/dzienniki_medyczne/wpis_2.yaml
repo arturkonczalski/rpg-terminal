@@ -1,0 +1,14 @@
+id: wpis_2
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > DZIENNIKI MEDYCZNE"
+  - "WPIS 2"
+  - "-----------------"
+  - "Data wpisu: 02.11.2027"
+  - "Napływ pacjentów z Sektora 4. Objawy: agresja, paranoja, halucynacje. Możliwa ekspozycja na narkotyki lub substancje chemiczne. Trwają badania. Powiadomiono Nadzorcę. Wniosek o przydzielenie dodatkowego personelu medycznego."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/dzienniki_medyczne

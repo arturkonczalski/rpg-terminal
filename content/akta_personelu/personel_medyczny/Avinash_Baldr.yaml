@@ -1,0 +1,14 @@
+id: Avinash_Baldr
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU > PERSONEL MEDYCZNY"
+  - "-----------------"
+  - "Avinash Baldr"
+  - "Data urodzenia: 10.15.2037"
+  - "Opis EnPeCepa."
+  
+options:
+  - text: "> Powrót do Akt Personelu Medycznego"
+    next: akta_personelu/personel_medyczny

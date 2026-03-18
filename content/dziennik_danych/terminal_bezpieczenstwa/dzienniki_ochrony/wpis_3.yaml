@@ -1,0 +1,14 @@
+id: wpis_3
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > DZIENNIKI OCHRONY"
+  - "WPIS 3"
+  - "-----------------"
+  - "Data wpisu: 28.11.2027"
+  - "Sytuacja chwilowo ustabilizowana. Osoby wykazujące objawy zostały odseparowane od reszty populacji. Źródło problemu nadal nie zostało ustalone. Na polecenie Nadzorcy Sektor 4 pozostaje zamknięty, a obecność patroli została wyraźnie zwiększona. Personel otrzymał zgodę na zdecydowane działania w razie zagrożenia. To wszystko wydaje się podejrzane."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/dzienniki_ochrony

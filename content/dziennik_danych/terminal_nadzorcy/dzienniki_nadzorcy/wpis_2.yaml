@@ -1,0 +1,13 @@
+id: wpis_2
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL NADZORCY > DZIENNIKI NADZORCY"
+  - "WPIS 2"
+  - "-----------------"
+  - "Sytuacja w Sektorze 4 szybko się pogarsza. Personel medyczny nie jest w stanie ustalić źródła problemu ani opracować skutecznego leczenia. Wprowadziłem izolację sektora, by ograniczyć rozprzestrzenianie się zagrożenia. Nie możemy pozwolić, by objęło ono cały Schron."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_nadzorcy/dzienniki_nadzorcy_odblokowany

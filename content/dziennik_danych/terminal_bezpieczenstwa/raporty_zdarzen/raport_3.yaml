@@ -1,0 +1,14 @@
+id: raport_3
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > RAPORTY ZDARZEŃ"
+  - "RAPORT 3: NIEAUTORYZOWANY DOSTĘP DO STREFY OGRANICZONEJ"
+  - "-----------------"
+  - "Lokalizacja: Strefa ograniczona"
+  - "Szczegóły: Wykryto próbę nieuprawnionego wejścia do obszaru o podwyższonym poziomie zabezpieczeń. Osoba odpowiedzialna została ujęta przez ochronę. Obecnie trwa dochodzenie mające ustalić jej motywy oraz ewentualne powiązania."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/raporty_zdarzen

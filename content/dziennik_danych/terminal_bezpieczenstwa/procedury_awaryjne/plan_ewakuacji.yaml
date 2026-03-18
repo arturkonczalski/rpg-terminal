@@ -1,0 +1,17 @@
+id: plan_ewakuacji
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL BEZPIECZEŃSTWA > PROCEDURY AWARYJNE"
+  - "PLAN EWAKUACJI"
+  - "-----------------"
+  - "1. Ogłosić ewakuację przez system PA."
+  - "2. Skierować mieszkańców do wyznaczonych tras ewakuacyjnych."
+  - "3. Upewnić się, że wszyscy mieszkańcy posiadają niezbędne zapasy i identyfikację."
+  - "4. Utrzymać porządek i kontrolę podczas ewakuacji."
+  - "5. W razie potrzeby skontaktować się z zewnętrznymi służbami w celu uzyskania wsparcia."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_bezpieczenstwa/procedury_awaryjne

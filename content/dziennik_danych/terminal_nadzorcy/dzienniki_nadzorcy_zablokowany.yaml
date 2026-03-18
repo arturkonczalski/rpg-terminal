@@ -1,0 +1,10 @@
+id: dzienniki_nadzorcy_zablokowany
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "TERMINAL ZABLOKOWANY"
+  - ""
+  - "Zbyt wiele nieudanych prób. Ktoś tu próbuje udawać Nadzorcę! Zastanów się nad swoimi decyzjami."
+    
+

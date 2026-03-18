@@ -1,0 +1,14 @@
+id: Rukmini_Ploutarchos
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC AKTA PERSONELU > PERSONEL TECHNICZNY"
+  - "-----------------"
+  - "Rukmini Ploutarchos"
+  - "Data urodzenia: 10.15.2037"
+  - "Opis EnPeCepa."
+  
+options:
+  - text: "> Powrót do Akt Personelu Technicznego"
+    next: akta_personelu/personel_techniczny

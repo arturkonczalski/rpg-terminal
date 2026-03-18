@@ -1,0 +1,13 @@
+id: wpis_1
+
+text:
+  - "{server_basic_data}"
+  - ""
+  - "VAULT-TEC DZIENNIK DANYCH > TERMINAL MEDYCZNY > DANE BADAWCZE > DZIENNIK EKSPERYMENTU"
+  - "-----------------"
+  - "WPIS 1 - WSTĘPNE OBSERWACJE"
+  - "Wczesne etapy Projektu Archon wykazują obiecujące rezultaty. Obiekty badawcze przejawiają podwyższone zdolności fizyczne i umysłowe. Monitorowanie skutków ubocznych w toku. Wstępne wyniki wskazują na sukces, jednak długoterminowe efekty pozostają nieznane."
+  
+options:
+  - text: "> Powrót"
+    next: dziennik_danych/terminal_medyczny/dane_badawcze/dziennik_eksperymentu
